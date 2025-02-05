@@ -1,0 +1,3 @@
+../drivers/Src/rcc_driver.c:16:10:RCC_GetPCLK1Value	6
+../drivers/Src/rcc_driver.c:73:10:RCC_GetPCLK2Value	4
+../drivers/Src/rcc_driver.c:106:11:RCC_GetPLLOutputClock	1
